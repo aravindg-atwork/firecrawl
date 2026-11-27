@@ -1,0 +1,4 @@
+data/results.json
+node_modules/
+package*.json
+__pycache__/

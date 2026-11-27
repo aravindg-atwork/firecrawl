@@ -1,0 +1,333 @@
+{
+ "/": {
+  "buttons": [
+   {
+    "i": 0,
+    "sig": "|||BUTTON",
+    "label": "",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 1,
+    "sig": "Previous slide|||DIV",
+    "label": "Previous slide",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 2,
+    "sig": "Next slide|||DIV",
+    "label": "Next slide",
+    "effect": [
+     "dom_changed"
+    ]
+   }
+  ],
+  "js_errors": []
+ },
+ "/organisation/board-of-directors": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/organisation/management-team": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/organisation/code-of-conduct": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/organisation/event-participation": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-company": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-company/citizen-charter": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-company/consultancy": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-company/bulletin-board": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-company/corporate-planning": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/organisation/chief-vigilance-officer": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-company/current-projects": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-plant": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-plant/utilities": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-plant/process-in-brief": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-plant/achievements": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-plant/future-plan": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-plant/business-opportunity": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-plant/best-of-three-performances": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/marketing": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/marketing/marketing-territories": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/marketing/regional-offices": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/marketing/corporate-social-responsibility": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/marketing/marketing-highlights": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/services": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/marketing/chemical-fertilizers": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/services/care-for-the-neighbourhood": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/marketing/bio-fertilizers": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/marketing/agro-chemicals-neem-based": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/finance/performance": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/achievements": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/personnel-admin/human-resource": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/personnel-admin": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/finance/investors-information": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/achievements/environmental-awards": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/achievements/safety-awards": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/tender": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/achievements/iso-certification": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/black-listing-of-vendors": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/award-of-tenders-contracts-above-rs-5-lacs": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/gallery": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/contact-us": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/gallery/nggallery/mfl-gallery/SATELLITE-YOGA-EVENT-AT-MFL-%E2%80%93-CELEBRATING-WITH-CCRS,-INTERNATIONAL-DAY-OF-YOGA-2025--with-the-theme-YOGA-FOR-ONE-EARTH,-ONE-HEALTH:": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/vijay-organic-products": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/agm-notice-year-of-2023-2024": {
+  "buttons": [
+   {
+    "i": 1,
+    "sig": "GO BACK TO HOME PAGE|http://madrasfert.co.in/#mfl_featured||A",
+    "label": "GO BACK TO HOME PAGE",
+    "effect": [
+     "navigated:https://madrasfert.co.in/#mfl_featured"
+    ]
+   }
+  ],
+  "js_errors": []
+ },
+ "/azadi-ka-amrit-mahotsav": {
+  "error": "Page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://madrasfert.co.in/azadi-ka-amrit-mahotsav/\", waiting until \"networkidle\"\n"
+ },
+ "/information-on-internal-complaints-committee-under-sexual-harassment-of-women-at-work-place-act-2013": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/resources": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/vigilance/vigilance-profile": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/vigilance/vigilance-activities": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/vigilance/vigilance-vision": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/press-release": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/vigilance/vigilance-contacts": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/life-at-mfl": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/vigilance/complaint-registration-form": {
+  "buttons": [
+   {
+    "i": 1,
+    "sig": "Submit|||INPUT",
+    "label": "Submit",
+    "effect": [
+     "dom_changed"
+    ]
+   }
+  ],
+  "js_errors": []
+ },
+ "/career-form": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/innovations": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/feedback-form": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/infrastructures": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/gallery/nggallery/mfl-gallery": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/disclaimer": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/resources/payment-status": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/news": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/misc": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/right-to-information-act-2005": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/terms-conditions": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/privacy-policy": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/holiday-listing-of-vendors": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/mou": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/ufaqs/particulars-of-organization": {
+  "buttons": [
+   {
+    "i": 1,
+    "sig": "Search|||INPUT",
+    "label": "Search",
+    "effect": [
+     "navigated:https://madrasfert.co.in/?s=&submit=Search"
+    ]
+   }
+  ],
+  "js_errors": []
+ }
+}

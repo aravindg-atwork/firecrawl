@@ -1,0 +1,502 @@
+{
+ "/": {
+  "buttons": [
+   {
+    "i": 0,
+    "sig": "|||BUTTON",
+    "label": "",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 1,
+    "sig": "previous arrow|||DIV",
+    "label": "previous arrow",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 2,
+    "sig": "next arrow|||DIV",
+    "label": "next arrow",
+    "effect": [
+     "dom_changed"
+    ]
+   }
+  ],
+  "js_errors": []
+ },
+ "/agm-notice-year-of-2023-2024": {
+  "buttons": [
+   {
+    "i": 1,
+    "sig": "GO BACK TO HOME PAGE|http://madrasfert.co.in/#mfl_featured||A",
+    "label": "GO BACK TO HOME PAGE",
+    "effect": [
+     "navigated:https://madrasfert.co.in/#mfl_featured"
+    ]
+   }
+  ],
+  "js_errors": []
+ },
+ "/information-on-internal-complaints-committee-under-sexual-harassment-of-women-at-work-place-act-2013": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/home/minister-of-state": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/home/our-mission": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/home/our-products": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/home/mfl-timeline": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/about-us": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/home/mfl-google-map": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/home/mfl-features": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-company/citizen-charter": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/home/home-latest-news": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-company": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/finance/performance": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/finance/investors-information": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/services": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/eps-95-circular": {
+  "buttons": [
+   {
+    "i": 1,
+    "sig": "GO BACK TO HOME PAGE|https://mfl.bowandbaan.com/#mfl_featured||A",
+    "label": "GO BACK TO HOME PAGE",
+    "effect": [
+     "navigated:https://mfl.bowandbaan.com/#mfl_featured"
+    ]
+   }
+  ],
+  "js_errors": []
+ },
+ "/vigilance-contacts": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-plant/achievements": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/career-form": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/achievements/iso-certification": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/feedback-form": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/holiday-listing-of-vendors": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/black-listing-of-vendors": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/products": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-company/consultancy": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/marketing/bio-fertilizers": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/marketing/chemical-fertilizers": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/marketing/agro-chemicals-neem-based": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-company/bulletin-board": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/organisation/board-of-directors": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/organisation/event-participation": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-plant": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/marketing/corporate-social-responsibility": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/marketing": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/marketing/marketing-highlights": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/marketing/marketing-territories": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/marketing/regional-offices": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/achievements": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/achievements/environmental-awards": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-plant/utilities": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-plant/future-plan": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/right-to-information-act-2005": {
+  "buttons": [
+   {
+    "i": 1,
+    "sig": "a Particulars of organization|#||A",
+    "label": "a Particulars of organization",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 2,
+    "sig": "a Powers and duties of employees|#||A",
+    "label": "a Powers and duties of employees",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 3,
+    "sig": "a Procedure followed in the decision making process, including channels of super|#||A",
+    "label": "a Procedure followed in the decision making process, including channels of super",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 4,
+    "sig": "a Norms set by it for the discharge of its functions|#||A",
+    "label": "a Norms set by it for the discharge of its functions",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 5,
+    "sig": "a Rules, regulations, instructions, manuals and records, held by the company or |#||A",
+    "label": "a Rules, regulations, instructions, manuals and records, held by the company or ",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 6,
+    "sig": "a Statement of the categories of documents that are held by the Company or under|#||A",
+    "label": "a Statement of the categories of documents that are held by the Company or under",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 7,
+    "sig": "a Particulars of any arrangement that exists for consultation with, or represent|#||A",
+    "label": "a Particulars of any arrangement that exists for consultation with, or represent",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 8,
+    "sig": "a A statement of the Boards, councils, committees and other bodies consisting of|#||A",
+    "label": "a A statement of the Boards, councils, committees and other bodies consisting of",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 9,
+    "sig": "a Directory of employees|#||A",
+    "label": "a Directory of employees",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 10,
+    "sig": "a Monthly remuneration received by employees, including the system of compensati|#||A",
+    "label": "a Monthly remuneration received by employees, including the system of compensati",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 11,
+    "sig": "a Budget allocated to each of its agency, indicating the particulars of all plan|#||A",
+    "label": "a Budget allocated to each of its agency, indicating the particulars of all plan",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 12,
+    "sig": "a Manner of execution of subsidy programmes, including the amounts allocated and|#||A",
+    "label": "a Manner of execution of subsidy programmes, including the amounts allocated and",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 13,
+    "sig": "a Particulars of recipients of concessions, permits or authorizations granted by|#||A",
+    "label": "a Particulars of recipients of concessions, permits or authorizations granted by",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 14,
+    "sig": "a Details in respect of the information available to or held by it, reduced in a|#||A",
+    "label": "a Details in respect of the information available to or held by it, reduced in a",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 15,
+    "sig": "a Particulars of facilities available to citizens for obtaining information, inc|#||A",
+    "label": "a Particulars of facilities available to citizens for obtaining information, inc",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 16,
+    "sig": "a Names, designations and other particulars of the Public Information Officers a|#||A",
+    "label": "a Names, designations and other particulars of the Public Information Officers a",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 17,
+    "sig": "a Other information as may be prescribed|#||A",
+    "label": "a Other information as may be prescribed",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 18,
+    "sig": "a No. of employees against whom Disciplinary action has been proposed / taken (S|#||A",
+    "label": "a No. of employees against whom Disciplinary action has been proposed / taken (S",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 19,
+    "sig": "a Transfer Policy and transfer orders (F.No.1/6/2011-IR dt.15.4.2013)|#||A",
+    "label": "a Transfer Policy and transfer orders (F.No.1/6/2011-IR dt.15.4.2013)",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 20,
+    "sig": "a Programmes to advance understanding of RTI (Section 26)|#||A",
+    "label": "a Programmes to advance understanding of RTI (Section 26)",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 21,
+    "sig": "a Foreign and domestic by Ministers and Officials of the rank of Joint Secretary|#||A",
+    "label": "a Foreign and domestic by Ministers and Officials of the rank of Joint Secretary",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 22,
+    "sig": "a CAG & PAC paras and the action taken reports|#||A",
+    "label": "a CAG & PAC paras and the action taken reports",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 23,
+    "sig": "a E- Governance-Informations|#||A",
+    "label": "a E- Governance-Informations",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 24,
+    "sig": "a Vernacular / Local Language|#||A",
+    "label": "a Vernacular / Local Language",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 25,
+    "sig": "a Last date of Annual Updation – manual / handbook and other records in our webs|#||A",
+    "label": "a Last date of Annual Updation – manual / handbook and other records in our webs",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 26,
+    "sig": "a Nodal Officer|#||A",
+    "label": "a Nodal Officer",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 27,
+    "sig": "a Consultancy Committee of Key Stake Holders for advise on suo-motto disclosure|#||A",
+    "label": "a Consultancy Committee of Key Stake Holders for advise on suo-motto disclosure",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 28,
+    "sig": "a Name, Designation details of CPIO|#||A",
+    "label": "a Name, Designation details of CPIO",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 29,
+    "sig": "a Grievance Redressal Mechanism|#||A",
+    "label": "a Grievance Redressal Mechanism",
+    "effect": [
+     "dom_changed"
+    ]
+   },
+   {
+    "i": 30,
+    "sig": "a Parliamentary Questions|#||A",
+    "label": "a Parliamentary Questions",
+    "effect": [
+     "dom_changed"
+    ]
+   }
+  ],
+  "js_errors": []
+ },
+ "/the-plant/process-in-brief": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/achievements/safety-awards": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-plant/best-of-three-performances": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/gallery": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/the-plant/business-opportunity": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/gallery/nggallery/mfl-gallery/Infrastructure": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/gallery/nggallery/mfl-gallery/satellite-yoga-event-at-mfl-celebrating-with-ccrs-international-day-of-yoga-2025-with-the-theme-yoga-for-one-earth-one-health": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/gallery/nggallery/mfl-gallery/shri-manoj-kumar-jain-assumes-charge-as-cmd-mfl-today07-06-2024": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/gallery/nggallery/mfl-gallery/satellite-yoga-event-at-mfl-celebrating-with-ccrs-international-day-of-yoga-2025-with-the-theme-yoga-for-one-earth-one-health/page/2": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/gallery/nggallery/mfl-gallery/12th-yoga-event-in-mfl": {
+  "buttons": [],
+  "js_errors": []
+ },
+ "/gallery/nggallery/mfl-gallery/mfl-testing": {
+  "buttons": [],
+  "js_errors": []
+ }
+}
